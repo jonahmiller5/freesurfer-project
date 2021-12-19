@@ -1,3 +1,4 @@
+#!/bin/bash
 # The purpose of this program is to wait for an MRI to be sent by SFTP to this computer,
 # wait for all 192 of the files to be accounted for, and then send it to another
 # directory which converts MRIs to Freesurfer
